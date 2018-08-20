@@ -10,7 +10,8 @@ Broadly the Kinesin can be classified as Single headed and Double headed Kinesin
   It basically uses the WPE method to generate the Transition Matrix which are then solved by various numerical techniques. The entire code assumes a 1D motion with spring interaction between heads in case of dimeric Kinesin.
   Coding has been done in such a way that modification of the package is easy for future work. The codes are written in Julia Language.
   <https://julialang.org/>
- Instructions...
+
+Instructions...
  1. "kinscript.txt" is the input data file which can be edited by the user. Place it in the same directory with other .jl files. Place potentials with name "Potential$State.txt" in "Potential Folder".
  2. You can generate different potentials using generator functions ("Sawtoothpotential.jl",       ). The files will automatically be stored in the "Potential" Folder
  3. Enter the kinetic rate constants in the "Kinetic.txt" file in "Kineticrates" folder . It contains 2 column of Forward and Backward rates respectively.
