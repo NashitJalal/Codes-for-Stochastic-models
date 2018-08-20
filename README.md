@@ -20,7 +20,7 @@ Instructions...
  6. The Results are stored in the "Output" folder.
  
  
- "Sawtoothpotential.jl" --- call potentialsaw( Asymmetry , Peak value of free energy, Lowest free energy , State number as Input )
+ "Sawtoothpotential.jl" --- call potentialsaw(Asymmetry, Peak value of free energy,Lowest free energy,State number as Input)
  Note :  All entry in decimal except the State Number.......  
 
 #### Note : Currently the code can only be used for finding stationary distributions.Rest of the codes will be updated soon
