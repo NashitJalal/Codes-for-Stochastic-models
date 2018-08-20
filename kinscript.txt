@@ -1,0 +1,11 @@
+M        % Enter M for Monomeric and D for Dimeric
+2     % Number of Chemical States ( Minimum value=2)
+8e-9     % Period in m
+500     % Number of nodes
+9e-15    % Diffusion Constant
+300      % Temperature in Kelvin
+C:\Users\Nashit Jalal\AppData\Local\Julia-0.6.3.1\Documentation\Potential% Path for the potential files (Use Sawtoothpotential.jl or other Generators to generate Potential Files)
+1.5      % Spring Constant  ( 0.0 for Monomeric Kinesin)
+S        % S for simple interaction between heads or path for interaction potential from file ( M for Monomeric)
+C:\Users\Nashit Jalal\AppData\Local\Julia-0.6.3.1\Documentation\Kineticrates% Path for the kinetic rate constants
+C:\Users\Nashit Jalal\AppData\Local\Julia-0.6.3.1\Documentation%Home Directory
