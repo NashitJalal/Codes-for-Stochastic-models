@@ -1,5 +1,5 @@
 
-# Title : Generalized code for Studying Biomolecular transport phenomenon of Kinesin Motors ( Monomeric and Dimeric Kinesin Motor ) ~ {KAUSTABH RANE RESEARCH GROUP}
+# Title : Generalized code for Stochastic Models ~ {KAUSTUBH RANE RESEARCH GROUP}
   
   About Kinesin Motors........
 Kinesins are biological protein motors in animal cells.They are associated with the cargo movements such as vesicles, organelles and chromosomes along a track called Microtubule.
